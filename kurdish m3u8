@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 group-title="Live",ARTI TV
+http://iptvmasterlink.dyndns.org:8080/Entry/artitv_yeni/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live",MEDYA HABER
+https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/chunklist_w130320619_b2660000_sleng.m3u8
+#EXTINF:-1 group-title="Live",STERK TV
+https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_w2100886807_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Live",JIN TV
+https://live.jintv.org:12443/medialive/jintv.m3u8
+#EXTINF:-1 group-title="Live",MED MÜZİK
+http://137.74.205.201/medmuzik/MedStream/chunklist_w124080570.m3u8
+#EXTINF:-1 group-title="Live",KURDMAX MUSIC
+https://5aa8c7549bfa9.streamlock.net/music/livestream/chunklist_w1491722542.m3u8
+#EXTINF:-1 group-title="Live",RÛDAW
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+#EXTINF:-1 group-title="Live",K 24
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:-1 group-title="Live",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="Live",YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:-1 group-title="Live",HALK TV
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 group-title="Live",KRT
+http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1 group-title="Live",FOX TV
+http://213.115.248.46:9000/TR_-_FOX_HD_PLUS/video.m3u8
+#EXTINF:-1 group-title="Live",Cine5
+https://host.onlineradyotv.net:1936/cine5/cine5/playlist.m3u8
+#EXTINF:-1 group-title="Live",Yaban tv
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w75817657.m3u8
+#EXTINF:-1 group-title="Live",GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2128000_sltur.m3u8
+#EXTINF:-1 group-title="Live",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Live",SİNEMA TV HD
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/playlist.m3u8
+#EXTINF:-1 group-title="Live",SİNEMATÜRK TV 1 HD
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/playlist.m3u8
+#EXTINF:-1 group-title="Live",SİNEMATÜRK TV 2 HD
+http://cdn1-tr2tv.yayin.com.tr/tr2tv/ngrp:tr2tv/chunklist_w1574130832_b1696000.m3u8
+#EXTINF:-1 group-title="Live",YEŞİLÇAM TV 1
+https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/playlist.m3u8
+#EXTINF:-1 group-title="Live",YEŞİLÇAM TV 2
+https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/playlist.m3u8
+#EXTINF:-1 group-title="Live",ŞABAN TV 1
+http://145.239.37.125:20458/sabantv/sabantv/playlist.m3u8
+#EXTINF:-1 group-title="Live",ŞABAN TV 2
+http://145.239.37.125:20458/sabantv2/sabantv2/playlist.m3u8
+#EXTINF:-1 group-title="Live",ŞABAN TV 3
+http://145.239.37.125:20458/sabantv3/sabantv3/playlist.m3u8
+#EXTINF:-1 group-title="Live",ŞABAN TV 4
+https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/playlist.m3u8
+#EXTINF:-1 group-title="Live",ŞABAN TV 5
+http://145.239.37.125:20458/sabantv3/sabantv3/playlist.m3u8
+#EXTINF:-1 group-title="Live",KANAL D
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
+#EXTINF:-1 group-title="Live",STAR TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
+#EXTINF:-1 group-title="Live",FOX TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF:-1 group-title="Live",TV 8
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+#EXTINF:-1 group-title="Live",CNN TURK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
+#EXTINF:-1 group-title="Live",HABER TURK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
+#EXTINF:-1 group-title="Live",HABER GLOBAL
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/137
+#EXTINF:-1 group-title="Live",ARTI TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
+#EXTINF:-1 group-title="Live",ARTI TV
+http:\\176.10.117.18:8000\play\a002\index.m3u8
+#EXTINF:-1 group-title="Live",YENİ SİNEMA
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live",TURKUVAZ WESTERN
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
+#EXTINF:-1 group-title="Live",MiSKET TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:-1 group-title="Live",TURKUVAZ INFO
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685
+#EXTINF:-1 group-title="Live",ANKA TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5592
